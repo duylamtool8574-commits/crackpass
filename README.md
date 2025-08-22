@@ -11,7 +11,7 @@ Users are fully responsible for how they use this tool.
 ---
 
 ## Versions
-- **crackpass**: guesses **8-digit passwords**.  
+- **crackpass**: guesses **as much as you want-digit passwords**.  
 - **crackpass6**: guesses **6-digit passwords**.  
 
 Both versions are **safe to run** on demo passwords or in controlled environments.
